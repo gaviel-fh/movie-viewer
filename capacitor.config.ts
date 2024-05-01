@@ -2,8 +2,8 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'modern-app',
-  webDir: 'www'
+  appName: 'movie-viewer',
+  webDir: 'www',
 };
 
 export default config;

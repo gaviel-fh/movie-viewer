@@ -1,5 +1,5 @@
 {
-  "name": "modern-app",
+  "name": "movie-viewer",
   "integrations": {
     "capacitor": {}
   },
